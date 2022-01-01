@@ -9,3 +9,6 @@ To use
 Run the powershell script 
 Open in the html file 
 Enjoy your masterpiece to sell as an NFT! 💰
+
+
+Thanks to @heatheraislinn for making the original Mondrian Paintaing in CSS : https://codepen.io/heatheraislinn/pen/mojJgQ

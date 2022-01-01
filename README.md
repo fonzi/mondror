@@ -1,4 +1,4 @@
-Peit Mondrian Generator == Mondror 
+Mondrian + Generator = Mondror 
 
 A way to generate Mondrian abstract artwork by changing colors randomly on a given canvas. 
 Written in HTML/CSS/Powershell because I did not want to use javascript.
